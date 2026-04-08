@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hinário Tabernáculo A Voz do Cristão</string>
+    <string name="title_activity_main">Hinário Tabernáculo A Voz do Cristão</string>
+    <string name="package_name">com.hinario.tabernaculoavozdocristao</string>
+    <string name="custom_url_scheme">com.hinario.tabernaculoavozdocristao</string>
+</resources>
